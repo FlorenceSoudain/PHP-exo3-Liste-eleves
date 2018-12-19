@@ -16,4 +16,4 @@ function pair ($num){
     }
 }
 
-echo pair(7); //changer le chiffre par celui que l'on veut déterminer
+echo pair(99); //changer le chiffre par celui que l'on veut déterminer
