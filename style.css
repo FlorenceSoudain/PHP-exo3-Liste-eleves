@@ -1,0 +1,60 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 25px;
+    background: brown;
+}
+
+a {
+    color: darkcyan;
+    text-decoration: none;
+}
+
+a:hover {
+    color: indianred;
+}
+
+h1 {
+    font-family: 'Great Vibes', cursive;
+    color: brown;
+    text-align: center;
+    text-shadow: 1px 1px 0 indianred;
+}
+
+.titre {
+    font-weight: bold;
+    color: indianred;
+}
+
+#listePassions {
+    list-style-type: circle;
+}
+
+#container {
+    background: lavender;
+    padding: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+    margin-top: 2%;
+    border-radius: 20px;
+}
+
+#btn {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding: 15px;
+}
+
+#liste, #infos {
+    border-left: solid 5px brown;
+    margin-left: 35%;
+    padding-left: 5%;
+}
+#retour {
+    cursor: pointer;
+    font-family: 'Raleway', sans-serif;
+}
+#retour:hover {
+    background: brown;
+    color: lavender;
+}
