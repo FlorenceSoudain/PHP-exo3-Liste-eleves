@@ -9,7 +9,10 @@
 $promo = require 'promo.php';
 
 ?>
+<!doctype html>
+<html lang="fr">
 <head>
+    <title>Liste des apprenants</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -31,3 +34,4 @@ $promo = require 'promo.php';
 </div>
 <script src="script.js"></script>
 </body>
+</html>

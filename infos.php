@@ -16,7 +16,10 @@ print_r($eleves);
 */
 
 ?>
+<!doctype html>
+<html lang="fr">
 <head>
+    <title>Liste des apprenants</title>
     <link rel="stylesheet" href="style.css">
     <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
@@ -46,3 +49,4 @@ print_r($eleves);
 
 <script src="script.js"></script>
 </body>
+</html>
